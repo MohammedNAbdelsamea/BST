@@ -1,0 +1,3 @@
+E:/FCAI/2nd/2nd term/Data Structure/BST/cmake-build-debug/CMakeFiles/AsP7.dir
+E:/FCAI/2nd/2nd term/Data Structure/BST/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/FCAI/2nd/2nd term/Data Structure/BST/cmake-build-debug/CMakeFiles/rebuild_cache.dir
